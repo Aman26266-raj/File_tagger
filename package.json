@@ -1,0 +1,21 @@
+{
+  "name": "file-tagger",
+  "version": "0.1.0",
+  "description": "CLI utility to add, remove, search, and view local file tags.",
+  "license": "MIT",
+  "bin": {
+    "file-tagger": "bin/file-tagger"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "file",
+    "tag",
+    "cli",
+    "utility"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
